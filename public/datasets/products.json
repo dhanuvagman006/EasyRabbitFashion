@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized T-Shirt",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1618354691341-9e4d89f9f6f0?auto=format&fit=crop&w=900&q=80",
+    "description": "Comfortable oversized streetwear t-shirt with dropped shoulders and breathable cotton.",
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "name": "Tailored Linen Shirt",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?auto=format&fit=crop&w=900&q=80",
+    "description": "Lightweight linen shirt with a relaxed-tailored fit for effortless summer layering.",
+    "category": "men"
+  },
+  {
+    "id": 3,
+    "name": "High-Rise Wide Jeans",
+    "price": 1899,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=900&q=80",
+    "description": "Structured high-rise denim with a wide-leg silhouette and vintage wash.",
+    "category": "women"
+  },
+  {
+    "id": 4,
+    "name": "Satin Slip Dress",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "description": "Soft satin midi slip dress designed for evening glam and day layering.",
+    "category": "women"
+  },
+  {
+    "id": 5,
+    "name": "Boxy Utility Jacket",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504?auto=format&fit=crop&w=900&q=80",
+    "description": "Cropped utility jacket with statement pockets and matte hardware details.",
+    "category": "men"
+  },
+  {
+    "id": 6,
+    "name": "Pleated Midi Skirt",
+    "price": 1599,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a13d24?auto=format&fit=crop&w=900&q=80",
+    "description": "Flowy pleated midi skirt with movement-friendly fabric and clean finish.",
+    "category": "women"
+  },
+  {
+    "id": 7,
+    "name": "Genderless Hoodie",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1556906781-9a412961c28c?auto=format&fit=crop&w=900&q=80",
+    "description": "Heavyweight fleece hoodie with minimal branding and oversized comfort fit.",
+    "category": "unisex"
+  },
+  {
+    "id": 8,
+    "name": "Ribbed Knit Co-ord Top",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?auto=format&fit=crop&w=900&q=80",
+    "description": "Ribbed knit top with stretch comfort and refined silhouette for easy pairing.",
+    "category": "women"
+  },
+  {
+    "id": 9,
+    "name": "Cargo Tapered Pants",
+    "price": 1699,
+    "image": "https://images.unsplash.com/photo-1622519407650-3df9883f76a2?auto=format&fit=crop&w=900&q=80",
+    "description": "Modern cargo trousers featuring tapered ankles and utility-inspired seams.",
+    "category": "men"
+  },
+  {
+    "id": 10,
+    "name": "Chunky Street Sneakers",
+    "price": 2799,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Bold sneaker profile with cushioned sole and urban everyday versatility.",
+    "category": "unisex"
+  }
+]

@@ -1,6 +1,24 @@
 import { Link } from 'react-router-dom'
 
 export default function CartPage({ cartItems, totalPrice, updateQuantity, removeFromCart, clearCart }) {
+  const handleWhatsAppSubmit = () => {
+    const whatsappNumber = '916360139965'
+    const itemLines = cartItems.map(
+      (item, index) => `${index + 1}. ${item.name} x ${item.quantity} = Rs. ${item.price * item.quantity}`,
+    )
+
+    const message = [
+      'Hello EasyRabbitFashion, I would like to place this order:',
+      '',
+      ...itemLines,
+      '',
+      `Total: Rs. ${totalPrice}`,
+    ].join('\n')
+
+    const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`
+    window.open(whatsappUrl, '_blank', 'noopener,noreferrer')
+  }
+
   return (
     <main className="mx-auto w-full max-w-6xl px-4 pb-20 pt-12 md:px-8">
       <h1 className="font-display text-5xl text-stone-900">Your Cart</h1>
@@ -61,6 +79,13 @@ export default function CartPage({ cartItems, totalPrice, updateQuantity, remove
               className="mt-6 w-full rounded-full border border-stone-900 px-4 py-3 text-sm font-semibold text-stone-900 transition-colors hover:bg-stone-900 hover:text-rose-50"
             >
               Clear Cart
+            </button>
+
+            <button
+              onClick={handleWhatsAppSubmit}
+              className="mt-3 w-full rounded-full bg-green-600 px-4 py-3 text-sm font-semibold text-white transition-colors hover:bg-green-700"
+            >
+              Submit on WhatsApp
             </button>
           </aside>
         </div>

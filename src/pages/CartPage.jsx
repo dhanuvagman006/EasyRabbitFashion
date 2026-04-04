@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import Seo from '../components/Seo'
 
 export default function CartPage({ cartItems, totalPrice, updateQuantity, removeFromCart, clearCart }) {
   const handleWhatsAppSubmit = () => {
@@ -21,6 +22,13 @@ export default function CartPage({ cartItems, totalPrice, updateQuantity, remove
 
   return (
     <main className="mx-auto w-full max-w-6xl px-4 pb-20 pt-12 md:px-8">
+      <Seo
+        title="Your Cart"
+        description="Review selected items in your EasyRabbitFashion cart before checkout."
+        path="/cart"
+        noindex
+      />
+
       <h1 className="font-display text-5xl text-stone-900">Your Cart</h1>
 
       {cartItems.length === 0 ? (

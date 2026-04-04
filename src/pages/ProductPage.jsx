@@ -1,4 +1,5 @@
 import { Link, useParams } from 'react-router-dom'
+import Seo from '../components/Seo'
 
 export default function ProductPage({ products, onAddToCart }) {
   const { id } = useParams()
@@ -7,6 +8,13 @@ export default function ProductPage({ products, onAddToCart }) {
   if (!product) {
     return (
       <main className="mx-auto w-full max-w-4xl px-4 py-20 text-center md:px-8">
+        <Seo
+          title="Product Not Found"
+          description="The product you are looking for is not available at EasyRabbitFashion."
+          path={`/product/${id}`}
+          noindex
+        />
+
         <h1 className="font-display text-4xl text-stone-900">Product not found</h1>
         <p className="mt-3 text-stone-600">The item you are looking for does not exist.</p>
         <Link
@@ -21,6 +29,14 @@ export default function ProductPage({ products, onAddToCart }) {
 
   return (
     <main className="mx-auto w-full max-w-6xl px-4 py-12 md:px-8 md:py-20">
+      <Seo
+        title={product.name}
+        description={product.description}
+        path={`/product/${product.id}`}
+        image={product.image}
+        type="product"
+      />
+
       <div className="grid gap-10 lg:grid-cols-2">
         <img
           src={product.image}

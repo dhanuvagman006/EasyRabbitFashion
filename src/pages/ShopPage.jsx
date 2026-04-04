@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import ProductCard from '../components/ProductCard'
+import Seo from '../components/Seo'
 
 export default function ShopPage({ products, onAddToCart }) {
   const [selectedCategory, setSelectedCategory] = useState('all')
@@ -19,6 +20,12 @@ export default function ShopPage({ products, onAddToCart }) {
 
   return (
     <main className="mx-auto w-full max-w-6xl px-4 pb-20 pt-12 md:px-8">
+      <Seo
+        title="Shop"
+        description="Browse all EasyRabbitFashion products by category and discover dresses and stylish everyday looks."
+        path="/shop"
+      />
+
       <div className="mb-10 flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
         <div>
           <h1 className="font-display text-5xl text-stone-900">Shop</h1>

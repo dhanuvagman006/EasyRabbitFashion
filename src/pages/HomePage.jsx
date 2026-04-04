@@ -1,11 +1,30 @@
 import { Link } from 'react-router-dom'
 import ProductCard from '../components/ProductCard'
+import Seo from '../components/Seo'
 
 export default function HomePage({ products, onAddToCart }) {
   const featuredProducts = products.slice(0, 4)
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'EasyRabbitFashion',
+    url: import.meta.env.VITE_SITE_URL || 'https://easyrabbitfashion.vercel.app',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: `${import.meta.env.VITE_SITE_URL || 'https://easyrabbitfashion.vercel.app'}/shop`,
+      'query-input': 'required name=search_term_string',
+    },
+  }
 
   return (
     <main>
+      <Seo
+        title="Trendy Women Fashion Store"
+        description="Shop the latest dresses and fashion essentials at EasyRabbitFashion. Explore curated pieces, new drops, and affordable styles."
+        path="/"
+        jsonLd={jsonLd}
+      />
+
       <section className="relative isolate overflow-hidden px-4 pb-16 pt-16 md:px-8 md:pt-24">
         <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top_right,_#f97316_0%,_transparent_50%),radial-gradient(circle_at_bottom_left,_#ec4899_0%,_transparent_45%)] opacity-25" />
 

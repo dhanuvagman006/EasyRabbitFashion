@@ -1,0 +1,2760 @@
+{
+    "catalogFeedType": "catalog_listing_page",
+    "enable": false,
+    "catalogs": [
+        {
+            "id": 113180027,
+            "hero_pid": 388359920,
+            "name": "Classic Partywear Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 388,
+            "min_product_price": 388,
+            "max_product_discount": 7,
+            "total_discount_in_rs": 28,
+            "discount_text": "₹28 off",
+            "original_price": 416,
+            "description": "Classic Partywear Women Dresses",
+            "full_details": "Fabric: Crepe / Georgette\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nXL, 4XL, 5XL, L, XXXL, XXL, M\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classic Partywear Women Dresses*\nFabric: Georgette\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 48 in) \nS (Bust Size: 36 in, Length Size: 48 in) \nM (Bust Size: 38 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 48 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \nXXL (Bust Size: 44 in, Length Size: 48 in) \nXXXL (Bust Size: 46 in, Length Size: 48 in) \n4XL (Bust Size: 48 in, Length Size: 48 in) \n5XL (Bust Size: 50 in, Length Size: 48 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 2,
+            "image": "https://images.meesho.com/images/catalogs/113180027/cover/1/2/c9b237e6425852c2434d91f41834ea00b957440151c6f41efe52338d02dfd12ef038508f2bc7e6d85addd7c76c68202d53d4f6f5cbc23e06916f1748013a469c_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/113180027/collages/1/1/c9b237e6425852c2434d91f41834ea00b957440151c6f41efe52338d02dfd12ef038508f2bc7e6d85addd7c76c68202d53d4f6f5cbc23e06916f1748013a469c.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-02-09 19:34:20",
+            "created_iso": "2024-02-09T19:34:20+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.2,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 13445
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDguMDI5OTk4LCJjb2RDaGFyZ2UiOjE3LjA5LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Mywiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjo0MTYsInNlcnZpbmdQcmljZSI6Mzg4LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjcsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjg5MCwiY29kRGlzY291bnQiOjI2LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjM0OSwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuODA5NTk5LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjA0MjUsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50IjoyNCwib2ZmZXJJZCI6IjEtY3g5Q1hRbnVkaFZwVms4SENPZDVBcnc2QkxNaGttSnE3MFJwaHVZZEZkMSIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6MS41OTczMDYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6OSwiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjYsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNiwicHJvZHVjdENvaG9ydCI6IjIiLCJjb2RTZXJ2aW5nUHJpY2UiOjM4OH0sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjMwMTcwMSwiZmluYWxQcmljZU1hcmdpblBwZCI6LTMuOTIyNTMyfQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 388359920,
+                    "url": "https://images.meesho.com/images/products/388359920/tas6j_512.jpg"
+                },
+                {
+                    "id": 388359921,
+                    "url": "https://images.meesho.com/images/products/388359921/dsr7l_512.jpg"
+                }
+            ],
+            "activated": "2024-02-10 08:05:54",
+            "activated_iso": "2024-02-10T08:05:54+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹362 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6f7wfk?utm_source=s",
+            "hero_product_name": "Woman Maxi Dress",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/388359920/tas6j_512.jpg"
+            ],
+            "product_id": "6f7wfk",
+            "slug": "woman-maxi-dress",
+            "original_slug": "woman-maxi-dress",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 388359920,
+            "catalogId": 113180027
+        },
+        {
+            "id": 124172411,
+            "hero_pid": 420084314,
+            "name": "Urbane Designer Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 241,
+            "min_product_price": 241,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 9,
+            "discount_text": "₹9 off",
+            "original_price": 250,
+            "description": "Urbane Designer Women Dresses",
+            "full_details": "Fabric: Poly Crepe\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in, Length Size: 52 in) \nXL (Bust Size: 40 in, Length Size: 52 in) \nL (Bust Size: 38 in, Length Size: 52 in) \nM (Bust Size: 36 in, Length Size: 52 in) \nXXL (Bust Size: 42 in, Length Size: 52 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Urbane Designer Women Dresses*\nFabric: Poly Crepe\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 52 in) \nM (Bust Size: 38 in, Length Size: 52 in) \nL (Bust Size: 40 in, Length Size: 52 in) \nXL (Bust Size: 42 in, Length Size: 52 in) \nXXL (Bust Size: 44 in, Length Size: 52 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 7,
+            "image": "https://images.meesho.com/images/catalogs/124172411/cover/1/2/587ba6e615c6f204a21dd8e332ee649a4409f4b71b9de4b8d4cdd5d6e67c3a0eb19539648f5e9867bb2541841e8c43b9f80371c297999de23ad2a402ed7f9bc3_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/124172411/collages/1/1/587ba6e615c6f204a21dd8e332ee649a4409f4b71b9de4b8d4cdd5d6e67c3a0eb19539648f5e9867bb2541841e8c43b9f80371c297999de23ad2a402ed7f9bc3.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-06-14 16:43:06",
+            "created_iso": "2024-06-14T16:43:06+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.7,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.7",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 3711
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDUuMzQsImNvZENoYXJnZSI6MTguMjA5OTk5LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MSwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoyNTAsInNlcnZpbmdQcmljZSI6MjQxLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjQsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjg4LCJjb2REaXNjb3VudCI6MjUsImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6MTg3LCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC40MzAyOTksInRheEFyYml0cmFnZUdzdCI6LTAuMDIyNiwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjcsIm9mZmVySWQiOiIxLWN4OGEzc3B1TkdQM3hYaDJyVjdVaGhBeThxdEZNRmlCcnI1Q3ljdTRBc1YiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjEuMDgyNDcyLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MjkuODI5MzU5LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjI5LjgyNDQzNCwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy41NzAzNTgsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguMDkyNDg5LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My42NDU2ODQsImNhc2hIYW5kbGluZ1BwZCI6My43MDA0OTEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjowLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyNSwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjI1LCJwcm9kdWN0Q29ob3J0IjoiMyIsImNvZFNlcnZpbmdQcmljZSI6MjQxfSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6MTUwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMjA0NDU4LCJmaW5hbFByaWNlTWFyZ2luUHBkIjotMi42NTgyNDV9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 420084314,
+                    "url": "https://images.meesho.com/images/products/420084314/kuuw4_512.jpg"
+                },
+                {
+                    "id": 420084313,
+                    "url": "https://images.meesho.com/images/products/420084313/vdqet_512.jpg"
+                },
+                {
+                    "id": 420084312,
+                    "url": "https://images.meesho.com/images/products/420084312/ipqnq_512.jpg"
+                },
+                {
+                    "id": 420084315,
+                    "url": "https://images.meesho.com/images/products/420084315/9lcmo_512.jpg"
+                },
+                {
+                    "id": 420084309,
+                    "url": "https://images.meesho.com/images/products/420084309/6gk5t_512.jpg"
+                },
+                {
+                    "id": 420084311,
+                    "url": "https://images.meesho.com/images/products/420084311/ewtfk_512.jpg"
+                },
+                {
+                    "id": 420084310,
+                    "url": "https://images.meesho.com/images/products/420084310/ddtkt_512.jpg"
+                }
+            ],
+            "activated": "2024-06-15 09:07:02",
+            "activated_iso": "2024-06-15T09:07:02+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹216 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 25
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6y3v4q?utm_source=s",
+            "hero_product_name": "Women Maxi Length Gown",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/420084314/kuuw4_512.jpg"
+            ],
+            "product_id": "6y3v4q",
+            "slug": "women-maxi-length-gown",
+            "original_slug": "women-maxi-length-gown",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 420084314,
+            "catalogId": 124172411
+        },
+        {
+            "id": 141072156,
+            "hero_pid": 459650058,
+            "name": "Classy Elegant Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 435,
+            "min_product_price": 435,
+            "max_product_discount": 9,
+            "total_discount_in_rs": 42,
+            "discount_text": "₹42 off",
+            "original_price": 477,
+            "description": "Classy Elegant Women Dresses",
+            "full_details": "Fabric: Georgette\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 48 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 48 in) \nM (Bust Size: 38 in, Length Size: 48 in) \nXXL (Bust Size: 44 in, Length Size: 48 in) \nXXXL (Bust Size: 46 in, Length Size: 48 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classy Elegant Women Dresses*\nFabric: Georgette\nSleeve Length: Product Dependent\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 46 in) \nM (Bust Size: 38 in, Length Size: 46 in) \nL (Bust Size: 40 in, Length Size: 46 in) \nXL (Bust Size: 42 in, Length Size: 46 in) \nXXL (Bust Size: 44 in, Length Size: 46 in) \nXXXL (Bust Size: 46 in, Length Size: 46 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/141072156/cover/1/2/7e214d051244e22fc790e56c44f24b9c3a621c4735eda4b8e207d3bdfe446578761e6d1e5a46fe2f30dddd601b6de7b5ff6b0c0086fd383c039fb6e995480572_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/141072156/collages/1/1/7e214d051244e22fc790e56c44f24b9c3a621c4735eda4b8e207d3bdfe446578761e6d1e5a46fe2f30dddd601b6de7b5ff6b0c0086fd383c039fb6e995480572.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-11-22 16:28:10",
+            "created_iso": "2024-11-22T16:28:10+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 5470
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDkuNzIwMDAxLCJjb2RDaGFyZ2UiOjE5LjUzLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2OCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjo0NzcsInNlcnZpbmdQcmljZSI6NDM1LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjksImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjk5NiwiY29kRGlzY291bnQiOjMxLCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjQwMywidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuODEyOSwidGF4QXJiaXRyYWdlR3N0IjotMC4wNDI3LCJ2YWxtb0Rpc2NvdW50IjotMS40MDk5OTksImlzQnJwQmxvY2tlZCI6dHJ1ZSwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7InN1cHBsaWVyT2ZmZXJzIjpbeyJkaXNjb3VudCI6MzYsIm9mZmVySWQiOiIxLWN4OHcwV0pwaHJCNXRCcVdRbTRTTkJvMU0xSTZVRmk1VWV1aVpXNkx2TjEiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjIuMDYzNzM4LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjMsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjMxLCJwcmVwYWlkRGlzY291bnRBZnRlciI6MzEsInByb2R1Y3RDb2hvcnQiOiIzIiwiY29kU2VydmluZ1ByaWNlIjo0MzV9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4zODk4MDIsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi01LjA2Nzk1NX0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 459650058,
+                    "url": "https://images.meesho.com/images/products/459650058/dxvzf_512.jpg"
+                },
+                {
+                    "id": 459650055,
+                    "url": "https://images.meesho.com/images/products/459650055/pgecs_512.jpg"
+                },
+                {
+                    "id": 459650057,
+                    "url": "https://images.meesho.com/images/products/459650057/kx52y_512.jpg"
+                },
+                {
+                    "id": 459650056,
+                    "url": "https://images.meesho.com/images/products/459650056/ozv9h_512.jpg"
+                }
+            ],
+            "activated": "2024-11-28 16:04:12",
+            "activated_iso": "2024-11-28T16:04:12+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹404 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 31
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7lnw96?utm_source=s",
+            "hero_product_name": "Classic Ravishing Fabulous Digitally Printed Shirt Collor  Western Dress",
+            "high_asp_enabled": true,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/459650058/dxvzf_512.jpg"
+            ],
+            "product_id": "7lnw96",
+            "slug": "classic-ravishing-fabulous-digitally-printed-shirt-collor-western-dress",
+            "original_slug": "classic-ravishing-fabulous-digitally-printed-shirt-collor-western-dress",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 459650058,
+            "catalogId": 141072156
+        },
+        {
+            "id": 133949857,
+            "hero_pid": 444653270,
+            "name": "Stylish Graceful Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 188,
+            "min_product_price": 188,
+            "max_product_discount": 3,
+            "total_discount_in_rs": 6,
+            "discount_text": "₹6 off",
+            "original_price": 194,
+            "description": "Stylish Graceful Women Dresses",
+            "full_details": "Fabric: Crepe\nSleeve Length: Three-Quarter Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 45 in) \nXL (Bust Size: 42 in, Length Size: 45 in) \nXS (Bust Size: 34 in, Length Size: 45 in) \nL (Bust Size: 40 in, Length Size: 45 in) \nM (Bust Size: 38 in, Length Size: 45 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Stylish Graceful Women Dresses*\nFabric: Crepe\nSleeve Length: Three-Quarter Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 46 in) \nS (Bust Size: 36 in, Length Size: 46 in) \nM (Bust Size: 38 in, Length Size: 46 in) \nL (Bust Size: 40 in, Length Size: 46 in) \nXL (Bust Size: 42 in, Length Size: 46 in) \nXXL (Bust Size: 44 in, Length Size: 46 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/133949857/cover/1/2/0d8066d301f8da89f37aa1362456b01c98d56dd4732ca7a9fdc439b65bb84049010798cbe500f060adc3f951ef55dc6f50448964959ed7da751ca8bf50cd7aab_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/133949857/collages/1/1/0d8066d301f8da89f37aa1362456b01c98d56dd4732ca7a9fdc439b65bb84049010798cbe500f060adc3f951ef55dc6f50448964959ed7da751ca8bf50cd7aab.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-19 15:33:40",
+            "created_iso": "2024-09-19T15:33:40+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 2597
+            },
+            "shipping": {
+                "charges": 61,
+                "discount": 9,
+                "show_shipping_charges": true,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 61,
+                "discount": 9,
+                "show_shipping_charges": true,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE3LjA0LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6NjEsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoxOTQsInNlcnZpbmdQcmljZSI6MTg4LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjMsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjQ1ODgsImNvZERpc2NvdW50IjoyNCwiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoxOTUsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjQ1MTc5OSwidGF4QXJiaXRyYWdlR3N0IjotMC4wMjM3LCJ2YWxtb0Rpc2NvdW50IjotMS40MDk5OTksImlzQnJwQmxvY2tlZCI6dHJ1ZSwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7InN1cHBsaWVyT2ZmZXJzIjpbeyJkaXNjb3VudCI6Nywib2ZmZXJJZCI6IjEtY3g3YUR0QjJGMlpSWkJ6QURjZmdOckZkd1o3SDNpSm80TExjS1VnM05sZiIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6MC43ODc2NTIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6NSwiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjQsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNCwicHJvZHVjdENvaG9ydCI6IjEiLCJjb2RTZXJ2aW5nUHJpY2UiOjI0OX0sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjE0ODc3MiwiZmluYWxQcmljZU1hcmdpblBwZCI6LTEuOTM0MjV9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 444653270,
+                    "url": "https://images.meesho.com/images/products/444653270/rdobl_512.jpg"
+                }
+            ],
+            "activated": "2024-09-20 09:12:04",
+            "activated_iso": "2024-09-20T09:12:04+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹164 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 24
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7cqgnq?utm_source=s",
+            "hero_product_name": "Women's Fancy Trendy White Printed One Piece Dress For Women for Party & Functions",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/444653270/rdobl_512.jpg"
+            ],
+            "product_id": "7cqgnq",
+            "slug": "womens-fancy-trendy-white-printed-one-piece-dress-for-women-for-party-functions",
+            "original_slug": "womens-fancy-trendy-white-printed-one-piece-dress-for-women-for-party-functions",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 444653270,
+            "catalogId": 133949857
+        },
+        {
+            "id": 131583232,
+            "hero_pid": 439542744,
+            "name": "Classic Feminine Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 362,
+            "min_product_price": 362,
+            "max_product_discount": 10,
+            "total_discount_in_rs": 40,
+            "discount_text": "₹40 off",
+            "original_price": 402,
+            "description": "Classic Feminine Women Dresses",
+            "full_details": "Fabric: Lycra\nSleeve Length: Short Sleeves\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in, Length Size: 45 in) \nXL (Bust Size: 40 in, Length Size: 45 in) \nL (Bust Size: 38 in, Length Size: 45 in) \nXXL (Bust Size: 42 in, Length Size: 45 in) \nM (Bust Size: 36 in, Length Size: 45 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classic Feminine Women Dresses*\nFabric: Lycra\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 32 in, Length Size: 43 in) \nM (Bust Size: 34 in, Length Size: 43 in) \nL (Bust Size: 36 in, Length Size: 43 in) \nXL (Bust Size: 38 in, Length Size: 43 in) \nXXL (Bust Size: 40 in, Length Size: 43 in) \nXXXL (Bust Size: 42 in, Length Size: 43 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/131583232/cover/1/2/b6f225ef3ea46a32df3247b35f393bcb4b54b3e16ed865c6837d80255a2b372ade92ec939e9d7a7dbbccb3fdbba912da1ef58adc2913d6f93cb7a89686da9976_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/131583232/collages/1/1/b6f225ef3ea46a32df3247b35f393bcb4b54b3e16ed865c6837d80255a2b372ade92ec939e9d7a7dbbccb3fdbba912da1ef58adc2913d6f93cb7a89686da9976.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-02 15:13:53",
+            "created_iso": "2024-09-02T15:13:53+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.2,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 5414
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDguMzE5OTk5LCJjb2RDaGFyZ2UiOjE3LjI4LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2NSwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjo0MDIsInNlcnZpbmdQcmljZSI6MzYyLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjEwLCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50IjozOTg1LCJjb2REaXNjb3VudCI6MjgsImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6MzMwLCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC4yOTc1LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAxNTU5OSwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjMzLCJvZmZlcklkIjoiMS1jeDZEdlloYXVodmpnS0NVSnVuWGZrVFhINTRxWmk1SWhya3A3SHVjUjJKIiwib2ZmZXJOYW1lIjoiTWFoYSBJbmRpYW4gU2F2aW5ncyBTYWxlIn1dfSwicnRvSG9sZG91dFR5cGUiOiJub19ydG9faG9sZG91dCIsInNlcnZpbmdQcmljZVR5cGUiOiJwcmVtaXVtX3JldHVybl9wcmljZSIsImRpZmZlcmVudGlhbFByZXBhaWRBZGp1c3RtZW50IjowLCJkaWZmZXJlbnRpYWxQcmVwYWlkTWFyZ2luIjotNS4yMzk5OTksInByaWNlTWFyZ2luIjoxLjcyOTMxNSwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhQ29kIjotODEuMTExODE2LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFQcGQiOi0zNDUuNTcxNTYzLCJmb3J3YXJkUmF0ZUNhcmRDb2QiOjMwLjg0Mzg3LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjMwLjY5OTI3MiwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy45MjIwNjEsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguNDgyNTM0LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My41MDQ2MzEsImNhc2hIYW5kbGluZ1BwZCI6My42MTM0NzEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjowLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyOCwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjI4LCJwcm9kdWN0Q29ob3J0IjoiMiIsImNvZFNlcnZpbmdQcmljZSI6MzYyfSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6NTAwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMzI2NjM1LCJmaW5hbFByaWNlTWFyZ2luUHBkIjotNC4yNDY3MDd9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 439542744,
+                    "url": "https://images.meesho.com/images/products/439542744/yfp0v_512.jpg"
+                }
+            ],
+            "activated": "2024-09-03 12:08:42",
+            "activated_iso": "2024-09-03T12:08:42+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹334 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 28
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/79oxco?utm_source=s",
+            "hero_product_name": "Classic Retro Women Dresses Fancy Dress for Women Black dress Pari dress for women Lycra fabric Round Neck",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "10.00% Commission",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/439542744/yfp0v_512.jpg"
+            ],
+            "product_id": "79oxco",
+            "slug": "classic-retro-women-dresses-fancy-dress-for-women-black-dress-pari-dress-for-women-lycra-fabric-round-neck",
+            "original_slug": "classic-retro-women-dresses-fancy-dress-for-women-black-dress-pari-dress-for-women-lycra-fabric-round-neck",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 439542744,
+            "catalogId": 131583232
+        },
+        {
+            "id": 125471477,
+            "hero_pid": 423612735,
+            "name": "Trendy Retro Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 251,
+            "min_product_price": 251,
+            "description": "Trendy Retro Women Dresses",
+            "full_details": "Fabric: Rayon\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 30 in, Length Size: 34 in) \nXL (Bust Size: 36 in, Length Size: 40 in) \nL (Bust Size: 34 in, Length Size: 38 in) \nM (Bust Size: 32 in, Length Size: 36 in) \nXXL (Bust Size: 36 in, Length Size: 42 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Retro Women Dresses*\nFabric: Rayon\nSleeve Length: Three-Quarter Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 34 in) \nM (Bust Size: 38 in, Length Size: 36 in) \nL (Bust Size: 40 in, Length Size: 38 in) \nXL (Bust Size: 42 in, Length Size: 40 in) \nXXL (Bust Size: 44 in, Length Size: 42 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/125471477/cover/1/2/3375206e8281d4fcf1bce5d37e44da6b9417b6181b1f54c017d9cbc7865f91f3d33598f0308078f4b16e0447fcedc8c27af21e1a0d74a8d7bb0b1fcb6c92feec_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/125471477/collages/1/1/3375206e8281d4fcf1bce5d37e44da6b9417b6181b1f54c017d9cbc7865f91f3d33598f0308078f4b16e0447fcedc8c27af21e1a0d74a8d7bb0b1fcb6c92feec.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-06-28 19:27:03",
+            "created_iso": "2024-06-28T19:27:03+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 10000
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE3LjQ1LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Miwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjUxLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjI4NSwiY29kRGlzY291bnQiOjI1LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjE4OSwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuMzAxNjk5LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAxNTc5OSwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjAuNzUyNDUsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6MSwiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjUsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNSwicHJvZHVjdENvaG9ydCI6IjEiLCJjb2RTZXJ2aW5nUHJpY2UiOjI1MX0sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjE0MjEyMywiZmluYWxQcmljZU1hcmdpblBwZCI6LTEuODQ3ODAzfQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 423612735,
+                    "url": "https://images.meesho.com/images/products/423612735/tj98y_512.jpg"
+                }
+            ],
+            "activated": "2024-06-29 18:50:32",
+            "activated_iso": "2024-06-29T18:50:32+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹200 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "return_options",
+                        "amount": 26
+                    },
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 25
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/707hof?utm_source=s",
+            "hero_product_name": "women frock",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "WB",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "10% Commission",
+            "sale_marker": {
+                "enabled": false
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/423612735/tj98y_512.jpg"
+            ],
+            "product_id": "707hof",
+            "slug": "women-frock",
+            "original_slug": "women-frock",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 423612735,
+            "catalogId": 125471477
+        },
+        {
+            "id": 131809072,
+            "hero_pid": 439980886,
+            "name": "Classic Fashionable Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 298,
+            "min_product_price": 298,
+            "description": "Classic Fashionable Women Dresses",
+            "full_details": "Fabric: Lycra / Polyester\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS, XL (Bust Size: 40 in, Length Size: 42 in) \nXS, L (Bust Size: 38 in, Length Size: 42 in) \nM (Bust Size: 36 in, Length Size: 42 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classic Fashionable Women Dresses*\nFabric: Polyester / Lycra\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 42 in) \nS (Bust Size: 32 in, Length Size: 42 in) \nM (Bust Size: 36 in, Length Size: 42 in) \nL (Bust Size: 38 in, Length Size: 42 in) \nXL (Bust Size: 40 in, Length Size: 42 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/131809072/cover/1/2/0a348efd9e4782583e313715b248571e4ccab701856a7aa957edfcf31af175483fcfa38c8604fd44d9ec2c208a5d6bcd841509813b76df309197c97d96c0752a_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/131809072/collages/1/1/0a348efd9e4782583e313715b248571e4ccab701856a7aa957edfcf31af175483fcfa38c8604fd44d9ec2c208a5d6bcd841509813b76df309197c97d96c0752a.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-04 13:45:41",
+            "created_iso": "2024-09-04T13:45:41+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.2,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.2",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 3436
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDguMzE5OTk5LCJjb2RDaGFyZ2UiOjIyLjM3OTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6NjksInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzZXJ2aW5nUHJpY2UiOjI5OCwibWF4RGlzY291bnRQZXJjZW50YWdlIjowLCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50IjoxOTMsImNvZERpc2NvdW50IjozMSwiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoyMjksInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjUzMDksInRheEFyYml0cmFnZUdzdCI6LTAuMDI3ODk5LCJ2YWxtb0Rpc2NvdW50IjotMS40MDk5OTksImlzQnJwQmxvY2tlZCI6dHJ1ZSwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7fSwicnRvSG9sZG91dFR5cGUiOiJub19ydG9faG9sZG91dCIsInNlcnZpbmdQcmljZVR5cGUiOiJwcmVtaXVtX3JldHVybl9wcmljZSIsImRpZmZlcmVudGlhbFByZXBhaWRBZGp1c3RtZW50IjowLCJkaWZmZXJlbnRpYWxQcmVwYWlkTWFyZ2luIjotNS4yMzk5OTksInByaWNlTWFyZ2luIjoxLjI4OTI4NiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhQ29kIjotODEuMTExODE2LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFQcGQiOi0zNDUuNTcxNTYzLCJmb3J3YXJkUmF0ZUNhcmRDb2QiOjMwLjg0Mzg3LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjMwLjY5OTI3MiwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy45MjIwNjEsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguNDgyNTM0LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My41MDQ2MzEsImNhc2hIYW5kbGluZ1BwZCI6My42MTM0NzEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjowLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjozMSwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjMxLCJwcm9kdWN0Q29ob3J0IjoiMiIsImNvZFNlcnZpbmdQcmljZSI6Mjk4fSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6NTAwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMjQzNTIzLCJmaW5hbFByaWNlTWFyZ2luUHBkIjotMy4xNjYxMjF9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 439980886,
+                    "url": "https://images.meesho.com/images/products/439980886/0q6iz_512.jpg"
+                },
+                {
+                    "id": 439980889,
+                    "url": "https://images.meesho.com/images/products/439980889/okqba_512.jpg"
+                },
+                {
+                    "id": 439980888,
+                    "url": "https://images.meesho.com/images/products/439980888/c8be8_512.jpg"
+                },
+                {
+                    "id": 439980887,
+                    "url": "https://images.meesho.com/images/products/439980887/mhyci_512.jpg"
+                }
+            ],
+            "activated": "2024-09-05 09:17:14",
+            "activated_iso": "2024-09-05T09:17:14+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹267 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 31
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/79ybfa?utm_source=s",
+            "hero_product_name": "Women Colourful Maxi For Birthday Vibes, Maternity Shoot, Casual Photography, Pre-wedding Shoot.",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": false
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/439980886/0q6iz_512.jpg"
+            ],
+            "product_id": "79ybfa",
+            "slug": "women-colourful-maxi-for-birthday-vibes-maternity-shoot-casual-photography-pre-wedding-shoot",
+            "original_slug": "women-colourful-maxi-for-birthday-vibes-maternity-shoot-casual-photography-pre-wedding-shoot",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 439980886,
+            "catalogId": 131809072
+        },
+        {
+            "id": 171589941,
+            "hero_pid": 514597916,
+            "name": "Kurtis",
+            "category_id": 1001,
+            "sub_sub_category_name": "Kurtis & Kurtas",
+            "min_catalog_price": 213,
+            "min_product_price": 213,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 8,
+            "discount_text": "₹8 off",
+            "original_price": 221,
+            "description": "Fancy Elegant Women Tops & Tunics",
+            "full_details": "Fabric: Rayon\nSleeve Length: Three-Quarter Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 32 in) \nXL (Bust Size: 42 in, Length Size: 32 in) \nXS (Bust Size: 34 in, Length Size: 32 in) \nL (Bust Size: 40 in, Length Size: 32 in) \nXXXL (Bust Size: 46 in, Length Size: 32 in) \nXXL (Bust Size: 44 in, Length Size: 32 in) \nM (Bust Size: 38 in, Length Size: 32 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Kurtis*\nFabric: Rayon\nSleeve Length: Three-Quarter Sleeves\nPattern: Printed\nCombo of: Single\nSizes:\nXS (Bust Size: 34 in, Size Length: 34 in) \nS (Bust Size: 36 in, Size Length: 34 in) \nM (Bust Size: 38 in, Size Length: 34 in) \nL (Bust Size: 40 in, Size Length: 34 in) \nXL (Bust Size: 42 in, Size Length: 34 in) \nXXL (Bust Size: 44 in, Size Length: 34 in) \n\nEasy Returns Available In Case Of Any Issue\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/171589941/cover/1/2/6d50f17fc949b7c2f44a980c37903892f9517a040bd3a89ecdaa725e55b44a415d83b468117202a0ed6f784dcf6def14d279fb8564f630c46fda0b632df52cdb_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/171589941/collages/1/1/6d50f17fc949b7c2f44a980c37903892f9517a040bd3a89ecdaa725e55b44a415d83b468117202a0ed6f784dcf6def14d279fb8564f630c46fda0b632df52cdb.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2025-03-22 20:02:56",
+            "created_iso": "2025-03-22T20:02:56+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.0",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 2986
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDMuNTgwMDAxLCJjb2RDaGFyZ2UiOjE3LjI3LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2MCwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoyMjEsInNlcnZpbmdQcmljZSI6MjEzLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjQsImF2Z1NzY2F0UnRvQ29kIjowLjk2Njc3NTUsImF2Z1NzY2F0UnRvUHBkIjowLjExMjg5Njc2LCJydG9QZXJjZW50YWdlQ29kIjowLjk2Njc3NTUsInJ0b1BlcmNlbnRhZ2VQcGQiOjAuMTEyODk2NzYsImludmVudG9yeUNvdW50IjoyODksImNvZERpc2NvdW50IjoyNSwiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoxNTksInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOjAsInRheEFyYml0cmFnZUdzdCI6MCwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjYsIm9mZmVySWQiOiIxLWN4OFRQdkNCUUVhaTlta3JOTVMyUFFrclQyZjdxS3RGRGVoWThvdDdyQWwiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjAuOTM3MjYyLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC4zNzM3NTEsInJldHVybkZhY3RvclBwZCI6MC40Njg1NCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjMsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI1LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjUsInByb2R1Y3RDb2hvcnQiOiIyIiwiY29kU2VydmluZ1ByaWNlIjoyMTN9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwNCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4xNzcwMzEsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi0yLjMwMTY1MX0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 514597916,
+                    "url": "https://images.meesho.com/images/products/514597916/niurs_512.jpg"
+                }
+            ],
+            "activated": "2025-03-23 11:20:52",
+            "activated_iso": "2025-03-23T11:20:52+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹188 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 25
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/8idmak?utm_source=s",
+            "product_attributes": [
+                "Fabric: Rayon"
+            ],
+            "hero_product_name": " top",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "RJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/514597916/niurs_512.jpg"
+            ],
+            "product_id": "8idmak",
+            "slug": "top",
+            "original_slug": "top",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "original_product_id": 514597916,
+            "catalogId": 171589941
+        },
+        {
+            "id": 118152087,
+            "hero_pid": 402670805,
+            "name": "Urbane Designer Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 274,
+            "min_product_price": 274,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 10,
+            "discount_text": "₹10 off",
+            "original_price": 284,
+            "description": "Urbane Designer Women Dresses",
+            "full_details": "Fabric: Crepe\nSleeve Length: Three-Quarter Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in) \nXL (Bust Size: 40 in) \nL (Bust Size: 38 in) \nM (Bust Size: 36 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Urbane Designer Women Dresses*\nFabric: Crepe\nSleeve Length: Sleeveless\nPattern: Solid\nNet Quantity (N): 5\nSizes:\nS (Bust Size: 36 in, Length Size: 32 in) \nM (Bust Size: 38 in, Length Size: 34 in) \nL (Bust Size: 40 in, Length Size: 36 in) \nXL (Bust Size: 42 in, Length Size: 38 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/118152087/cover/1/2/ad25cb17fe5215ec3bb6b8932c45c3ad531a6ece59eab6e91f48236a61d133f58fd94365f542bfddf6e0c91a45345b3329dee52db9051531fbe1479754d05b3e_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/118152087/collages/1/1/ad25cb17fe5215ec3bb6b8932c45c3ad531a6ece59eab6e91f48236a61d133f58fd94365f542bfddf6e0c91a45345b3329dee52db9051531fbe1479754d05b3e.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-04-05 13:42:07",
+            "created_iso": "2024-04-05T13:42:07+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.8,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.8",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 5626
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE4LjAzLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Miwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoyODQsInNlcnZpbmdQcmljZSI6Mjc0LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjQsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjE5MjgsImNvZERpc2NvdW50IjoyNiwiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoyMjAsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjQ5OTU5OSwidGF4QXJiaXRyYWdlR3N0IjotMC4wMjYyLCJ2YWxtb0Rpc2NvdW50IjotMS40MDk5OTksImlzQnJwQmxvY2tlZCI6dHJ1ZSwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7InN1cHBsaWVyT2ZmZXJzIjpbeyJkaXNjb3VudCI6OCwib2ZmZXJJZCI6IjEtY3g3NVZIRWx3aVkxNzgxUldGdkhMbEowUFU5N0p6a1lNTmFabmtZVFlubiIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6MS4yMzY0ODIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6NiwiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjYsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNiwicHJvZHVjdENvaG9ydCI6IjEiLCJjb2RTZXJ2aW5nUHJpY2UiOjI3NH0sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjIzMzU0OCwiZmluYWxQcmljZU1hcmdpblBwZCI6LTMuMDM2NDUxfQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 402670805,
+                    "url": "https://images.meesho.com/images/products/402670805/3zahk_512.jpg"
+                }
+            ],
+            "activated": "2024-04-05 18:46:51",
+            "activated_iso": "2024-04-05T18:46:51+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹248 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6nqms5?utm_source=s",
+            "hero_product_name": "WOMEN DRESS ",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/402670805/3zahk_512.jpg"
+            ],
+            "product_id": "6nqms5",
+            "slug": "women-dress",
+            "original_slug": "women-dress",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 402670805,
+            "catalogId": 118152087
+        },
+        {
+            "id": 127912968,
+            "hero_pid": 430849591,
+            "name": "Comfy Women Sports & Activewear Tops",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 279,
+            "min_product_price": 279,
+            "max_product_discount": 3,
+            "total_discount_in_rs": 10,
+            "discount_text": "₹10 off",
+            "original_price": 289,
+            "description": "Comfy Women Sports & Activewear Tops",
+            "full_details": "Fabric: Cotton\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes: \nS (Bust Size: 36 in, Length Size: 43 in) \nXL (Bust Size: 42 in, Length Size: 43 in) \nL (Bust Size: 40 in, Length Size: 43 in) \nXXL (Bust Size: 44 in, Length Size: 43 in) \nM (Bust Size: 38 in, Length Size: 43 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Comfy Women Sports & Activewear Tops*\nFabric: Cotton\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 43 in) \nM (Bust Size: 38 in, Length Size: 43 in) \nL (Bust Size: 40 in, Length Size: 43 in) \nXL (Bust Size: 42 in, Length Size: 43 in) \nXXL (Bust Size: 44 in, Length Size: 43 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/127912968/cover/1/2/3992cc7aaa996929e86e367bd97f7f544a3baeb1dedf007c809e507c541c64159316204793ea330e682bbd37f3a6b1a4c21dd81359e26f438e1ba1ff0e13919a_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/127912968/collages/1/1/3992cc7aaa996929e86e367bd97f7f544a3baeb1dedf007c809e507c541c64159316204793ea330e682bbd37f3a6b1a4c21dd81359e26f438e1ba1ff0e13919a.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-07-26 18:09:25",
+            "created_iso": "2024-07-26T18:09:25+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 3261
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMTg5OTk4LCJjb2RDaGFyZ2UiOjE4LjYyOTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6NjMsInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzdHJpa2VPZmZQcmljZSI6Mjg5LCJzZXJ2aW5nUHJpY2UiOjI3OSwibWF4RGlzY291bnRQZXJjZW50YWdlIjozLCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50Ijo5NTksImNvZERpc2NvdW50IjoyNywiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoyMjQsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjQ5NzksInRheEFyYml0cmFnZUdzdCI6LTAuMDI2MSwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjgsIm9mZmVySWQiOiIxLWN4OGlIandDc3VrV3RlSGFxSm5aeGZPRmQ1U0s5SldKa0xxOW9jYVVRbnYiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjEuMzI4ODg5LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjAsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI3LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjcsInByb2R1Y3RDb2hvcnQiOiIzIiwiY29kU2VydmluZ1ByaWNlIjoyNzl9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4yNTEwMDIsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi0zLjI2MzM3NH0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 430849591,
+                    "url": "https://images.meesho.com/images/products/430849591/dkinx_512.jpg"
+                },
+                {
+                    "id": 430849592,
+                    "url": "https://images.meesho.com/images/products/430849592/oax8t_512.jpg"
+                },
+                {
+                    "id": 430849593,
+                    "url": "https://images.meesho.com/images/products/430849593/ebaai_512.jpg"
+                },
+                {
+                    "id": 430849590,
+                    "url": "https://images.meesho.com/images/products/430849590/d0wwo_512.jpg"
+                }
+            ],
+            "activated": "2024-07-27 11:16:53",
+            "activated_iso": "2024-07-27T11:16:53+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹252 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 27
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/74ilo7?utm_source=s",
+            "hero_product_name": "NDC FEB Fancy Retro Women Dresses And Frocks",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "RJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/430849591/dkinx_512.jpg"
+            ],
+            "product_id": "74ilo7",
+            "slug": "ndc-feb-fancy-retro-women-dresses-and-frocks",
+            "original_slug": "ndc-feb-fancy-retro-women-dresses-and-frocks",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 430849591,
+            "catalogId": 127912968
+        },
+        {
+            "id": 140850123,
+            "hero_pid": 459165726,
+            "name": "Pretty Sensational Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 307,
+            "min_product_price": 307,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 12,
+            "discount_text": "₹12 off",
+            "original_price": 319,
+            "description": "Pretty Sensational Women Dresses",
+            "full_details": "Fabric: Denim\nNet Quantity (N): 2\nSizes:\nS (Bust Size: 36 in, Length Size: 42 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 46 in) \nM (Bust Size: 38 in, Length Size: 44 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Pretty Sensational Women Dresses*\nFabric: Denim\nSleeve Length: Product Dependent\nPattern: Printed\nNet Quantity (N): 2\nSizes:\nS (Bust Size: 36 in, Length Size: 42 in) \nM (Bust Size: 38 in, Length Size: 44 in) \nL (Bust Size: 40 in, Length Size: 46 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \n\nDispatch: 0 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 2,
+            "image": "https://images.meesho.com/images/catalogs/140850123/cover/1/2/e29022481d934a84b67891613e4bb86a6b24a62023411271bee80698b8281258a78265f5f9712e80a64ffd173522377f3653c185da52104b348ae0cb48a0744e_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/140850123/collages/1/1/e29022481d934a84b67891613e4bb86a6b24a62023411271bee80698b8281258a78265f5f9712e80a64ffd173522377f3653c185da52104b348ae0cb48a0744e.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-11-21 02:41:54",
+            "created_iso": "2024-11-21T02:41:54+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 3.9,
+                "absolute_average_rating": 0,
+                "average_rating_str": "3.9",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 3340
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDguMzE5OTk5LCJjb2RDaGFyZ2UiOjE3LjIsImxvZ2lzdGljc0NoYXJnZURlbHRhQ29kIjowLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YVBwZCI6MCwicnRvRGlzY291bnQiOjAsInNoaXBwaW5nQ2hhcmdlIjowLCJkZWxpdmVyeUZlZXMiOjAsInNoaXBwaW5nQ2hhcmdlc0FkanVzdG1lbnQiOjYzLCJ6b25hbERpc2NvdW50IjowLCJ6b25hbENoYXJnZSI6MCwic3RyaWtlT2ZmUHJpY2UiOjMxOSwic2VydmluZ1ByaWNlIjozMDcsIm1heERpc2NvdW50UGVyY2VudGFnZSI6NCwiYXZnU3NjYXRSdG9Db2QiOjAuODc5MTI0MiwiYXZnU3NjYXRSdG9QcGQiOjAuMDkwNTk2ODI1LCJydG9QZXJjZW50YWdlQ29kIjowLjg3OTEyNDIsInJ0b1BlcmNlbnRhZ2VQcGQiOjAuMDkwNTk2ODI1LCJpbnZlbnRvcnlDb3VudCI6MTQwLCJjb2REaXNjb3VudCI6MjUsImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6MjU0LCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC40OTc5LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAyNjEsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50IjoxMCwib2ZmZXJJZCI6IjEtY3g4MlhqcmtBQ2RjeGlndVlhSWtjdTRxNEFCYmVQeG5WdnlwWDVuakZaMSIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6MS4zODE2OTIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6NywiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjUsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNSwicHJvZHVjdENvaG9ydCI6IjEiLCJjb2RTZXJ2aW5nUHJpY2UiOjMwN30sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjI2MDk3NiwiZmluYWxQcmljZU1hcmdpblBwZCI6LTMuMzkzMDQzfQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 459165726,
+                    "url": "https://images.meesho.com/images/products/459165726/khkik_512.jpg"
+                },
+                {
+                    "id": 459165725,
+                    "url": "https://images.meesho.com/images/products/459165725/cutsj_512.jpg"
+                }
+            ],
+            "activated": "2024-11-22 04:11:39",
+            "activated_iso": "2024-11-22T04:11:39+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹282 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 25
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7ldiji?utm_source=s",
+            "hero_product_name": "DR.ZOOM Black flower Dress With Jacket Women/Girls 100% Premium Quality Material Women Stylish Jacket With Dress COMBO (PACK OF 2) Urbane Latest Women Dresses With Jacket. COMBO dress , Jacket with dress , Pretty Modern Women Dresses , Pretty Modern Women Dresses , Dress and Jacket Combo For Women",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/459165726/khkik_512.jpg"
+            ],
+            "product_id": "7ldiji",
+            "slug": "drzoom-black-flower-dress-with-jacket-womengirls-100-premium-quality-material-women-stylish-jacket-with-dress-combo-pack-of-2-urbane-latest-women-dresses-with-jacket-combo-dress-jacket-with-dress-pretty-modern-women-dresses-pretty-modern-women-dresses-dress-and-jacket-combo-for-women",
+            "original_slug": "drzoom-black-flower-dress-with-jacket-womengirls-100-premium-quality-material-women-stylish-jacket-with-dress-combo-pack-of-2-urbane-latest-women-dresses-with-jacket-combo-dress-jacket-with-dress-pretty-modern-women-dresses-pretty-modern-women-dresses-dress-and-jacket-combo-for-women",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 459165726,
+            "catalogId": 140850123
+        },
+        {
+            "id": 115037916,
+            "hero_pid": 393696456,
+            "name": "Classy Feminine Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 595,
+            "min_product_price": 595,
+            "max_product_discount": 5,
+            "total_discount_in_rs": 30,
+            "discount_text": "₹30 off",
+            "original_price": 625,
+            "description": "Classy Feminine Women Dresses",
+            "full_details": "Fabric: Denim\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 41 in) \nXL (Bust Size: 42 in, Length Size: 42 in) \nL (Bust Size: 40 in, Length Size: 42 in) \nM (Bust Size: 38 in, Length Size: 41 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classy Feminine Women Dresses*\nFabric: Denim\nSleeve Length: Three-Quarter Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 41 in) \nM (Bust Size: 38 in, Length Size: 41 in) \nL (Bust Size: 40 in, Length Size: 42 in) \nXL (Bust Size: 42 in, Length Size: 42 in) \nXXL\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/115037916/cover/1/2/f656e950599a7752f737a4285d9fc98074d6dd52c75f431022ad72f6b6ea87e8d90d4234808a5d45ef48d5564314e5dc9faea290ac66948c0ece3baba0fb9354_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/115037916/collages/1/1/f656e950599a7752f737a4285d9fc98074d6dd52c75f431022ad72f6b6ea87e8d90d4234808a5d45ef48d5564314e5dc9faea290ac66948c0ece3baba0fb9354.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-02-28 22:20:53",
+            "created_iso": "2024-02-28T22:20:53+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.4,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.4",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 7560
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NjcuMTY5OTk4LCJjb2RDaGFyZ2UiOjI1LjM3OTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6OTEsInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzdHJpa2VPZmZQcmljZSI6NjI1LCJzZXJ2aW5nUHJpY2UiOjU5NSwibWF4RGlzY291bnRQZXJjZW50YWdlIjo1LCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50IjoyNiwiY29kRGlzY291bnQiOjM4LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjUzMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuOTk0MTk5LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjA1MjIsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50IjoyNiwib2ZmZXJJZCI6IjEtY3g3RE5kS0RuWlY0dWZDYjBOSzI4aWlTSUF4aFdDM2tTTU9kQVRET2xheCIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6Mi43NzIxODUsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjo0Ni44ODI3ODEsImZvcndhcmRSYXRlQ2FyZFBwZCI6NDYuMzk1OTk5LCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjI4LjA2NDA2NywicmV2ZXJzZVJhdGVDYXJkUHBkIjoyOS4yOTExMzMsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjcwMDkwMiwiY2FzaEhhbmRsaW5nUHBkIjo0LjAzOTU3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjIwLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjozOCwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjM4LCJwcm9kdWN0Q29ob3J0IjoiMyIsImNvZFNlcnZpbmdQcmljZSI6NTk1fSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6MTAwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjUyMzYxNiwiZmluYWxQcmljZU1hcmdpblBwZCI6LTYuODA3N30",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 393696456,
+                    "url": "https://images.meesho.com/images/products/393696456/hybyf_512.jpg"
+                }
+            ],
+            "activated": "2024-04-14 06:37:11",
+            "activated_iso": "2024-04-14T06:37:11+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹557 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 38
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6iea4o?utm_source=s",
+            "hero_product_name": "Woman Korean Denim Dress",
+            "high_asp_enabled": true,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "10.00% Commission",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/393696456/hybyf_512.jpg"
+            ],
+            "product_id": "6iea4o",
+            "slug": "woman-korean-denim-dress",
+            "original_slug": "woman-korean-denim-dress",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 393696456,
+            "catalogId": 115037916
+        },
+        {
+            "id": 115254121,
+            "hero_pid": 394275933,
+            "name": "Trendy Ravishing Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 263,
+            "min_product_price": 263,
+            "max_product_discount": 5,
+            "total_discount_in_rs": 13,
+            "discount_text": "₹13 off",
+            "original_price": 276,
+            "description": "Trendy Ravishing Women Dresses",
+            "full_details": "Fabric: Rayon\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS, XL, XS, L, XXL, M\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Ravishing Women Dresses*\nFabric: Rayon\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 30 in) \nS (Bust Size: 36 in, Length Size: 32 in) \nM (Bust Size: 38 in, Length Size: 34 in) \nL (Bust Size: 40 in, Length Size: 36 in) \nXL (Bust Size: 42 in, Length Size: 38 in) \nXXL (Bust Size: 44 in, Length Size: 40 in) \n\nDispatch: 0 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/115254121/cover/1/2/b0acb9f28a0efbc3945c798c98c0c6f293f720c4cc20d3b1d75472a400b56f0920a0b09f77e0ead135a0cb1c69e07c2cade05bbb462caa69576f22da76268253_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/115254121/collages/1/1/b0acb9f28a0efbc3945c798c98c0c6f293f720c4cc20d3b1d75472a400b56f0920a0b09f77e0ead135a0cb1c69e07c2cade05bbb462caa69576f22da76268253.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-03-02 18:41:56",
+            "created_iso": "2024-03-02T18:41:56+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 13465
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE4LjYxLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Mywiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjoyNzYsInNlcnZpbmdQcmljZSI6MjYzLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjUsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjUwMCwiY29kRGlzY291bnQiOjI3LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjIxMCwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuNDMyLCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAyMjcsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50IjoxMCwib2ZmZXJJZCI6IjEtY3g3VkxoQmtxeVN3OXNFT0xyc3pKckFXTWRuMkg0WHdQb2V4ZERMdlVIMSIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6MS4xMDQ0NzMsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6NiwiZGlmZkRpc2NvdW50aW5nRHNJbnN0cnVtZW50YXRpb25EYXRhIjp7InByZXBhaWREaXNjb3VudEJlZm9yZSI6MjcsInByZXBhaWREaXNjb3VudEFmdGVyIjoyNywicHJvZHVjdENvaG9ydCI6IjMiLCJjb2RTZXJ2aW5nUHJpY2UiOjI2M30sInByaW1hcnlQcmljZVR5cGUiOiIiLCJzZWNvbmRhcnlQcmljZVR5cGUiOiIiLCJzc2NhdCI6IjEwMDA4IiwibnJ0VnJzQ29uZmlnIjoiY29uZmlnX2QiLCJ3ZWlnaHQiOjUwMCwid2VpZ2h0U291cmNlIjoiREgtc29ydGVyIE0tMC02IG1vbnRocyIsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YSI6MCwicGxhdGZvcm1QcmljZU1hcmdpblR5cGUiOiJQRVJDRU5UQUdFIiwiYWJDYWxsIjoic3VjY2VzcyIsInByaWNlUGF0aCI6IkdlbmVyYWw6TG9naXN0aWNzVjIiLCJmaW5hbFByaWNlTWFyZ2luQ29kIjowLjIwODYxNSwiZmluYWxQcmljZU1hcmdpblBwZCI6LTIuNzEyMjc0fQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 394275933,
+                    "url": "https://images.meesho.com/images/products/394275933/7ezcr_512.jpg"
+                }
+            ],
+            "activated": "2024-03-16 08:30:00",
+            "activated_iso": "2024-03-16T08:30:00+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹236 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 27
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6iqp99?utm_source=s",
+            "hero_product_name": "Qluture Women Beautiful Short Dress (Black)",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "RJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/394275933/7ezcr_512.jpg"
+            ],
+            "product_id": "6iqp99",
+            "slug": "qluture-women-beautiful-short-dress-black",
+            "original_slug": "qluture-women-beautiful-short-dress-black",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 394275933,
+            "catalogId": 115254121
+        },
+        {
+            "id": 136074350,
+            "hero_pid": 449283828,
+            "name": "Comfy Feminine Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 286,
+            "min_product_price": 286,
+            "max_product_discount": 5,
+            "total_discount_in_rs": 14,
+            "discount_text": "₹14 off",
+            "original_price": 300,
+            "description": "Comfy Feminine Women Dresses",
+            "full_details": "Fabric: Lycra\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in, Length Size: 48 in) \nXL (Bust Size: 40 in, Length Size: 48 in) \nXS (Bust Size: 32 in, Length Size: 48 in) \nL (Bust Size: 38 in, Length Size: 48 in) \nM (Bust Size: 36 in, Length Size: 48 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Comfy Feminine Women Dresses*\nFabric: Lycra\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 48 in) \nS (Bust Size: 36 in, Length Size: 48 in) \nM (Bust Size: 38 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 48 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/136074350/cover/1/2/7363d28066f04f2bc5da241a0f71060575cd845d93d72af0b7ccf472898db9b57f12b640c80cf19073abde88cc2c1487184c91049d41ee5cf2d547b20b430082_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/136074350/collages/1/1/7363d28066f04f2bc5da241a0f71060575cd845d93d72af0b7ccf472898db9b57f12b640c80cf19073abde88cc2c1487184c91049d41ee5cf2d547b20b430082.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-10-02 18:44:37",
+            "created_iso": "2024-10-02T18:44:37+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 4460
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuODgwMDAxLCJjb2RDaGFyZ2UiOjE4LjAzLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Mywiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInN0cmlrZU9mZlByaWNlIjozMDAsInNlcnZpbmdQcmljZSI6Mjg2LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjUsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjQ0NTYsImNvZERpc2NvdW50IjoyNiwiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoyMzQsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjI1NjUsInRheEFyYml0cmFnZUdzdCI6LTAuMDEzNSwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjExLCJvZmZlcklkIjoiMS1jeDZ4UGJIR0ZVVFhCMUFMTUZyM3NQNlM2TGRiOUZ6andzWW9OSlJGTlpMIiwib2ZmZXJOYW1lIjoiTWFoYSBJbmRpYW4gU2F2aW5ncyBTYWxlIn1dfSwicnRvSG9sZG91dFR5cGUiOiJub19ydG9faG9sZG91dCIsInNlcnZpbmdQcmljZVR5cGUiOiJwcmVtaXVtX3JldHVybl9wcmljZSIsImRpZmZlcmVudGlhbFByZXBhaWRBZGp1c3RtZW50IjowLCJkaWZmZXJlbnRpYWxQcmVwYWlkTWFyZ2luIjotNS4yMzk5OTksInByaWNlTWFyZ2luIjoxLjMxNTY4OCwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhQ29kIjotODEuMTExODE2LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFQcGQiOi0zNDUuNTcxNTYzLCJmb3J3YXJkUmF0ZUNhcmRDb2QiOjMwLjg0Mzg3LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjMwLjY5OTI3MiwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy45MjIwNjEsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguNDgyNTM0LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My41MDQ2MzEsImNhc2hIYW5kbGluZ1BwZCI6My42MTM0NzEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjowLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyNiwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjI2LCJwcm9kdWN0Q29ob3J0IjoiMyIsImNvZFNlcnZpbmdQcmljZSI6Mjg2fSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6NTAwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMjQ4NTEsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi0zLjIzMDk1Nn0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 449283828,
+                    "url": "https://images.meesho.com/images/products/449283828/o4seb_512.jpg"
+                }
+            ],
+            "activated": "2024-10-04 00:14:21",
+            "activated_iso": "2024-10-04T00:14:21+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹260 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7fhpmc?utm_source=s",
+            "hero_product_name": "Classy Fabulous Women Dresses",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/449283828/o4seb_512.jpg"
+            ],
+            "product_id": "7fhpmc",
+            "slug": "classy-fabulous-women-dresses",
+            "original_slug": "classy-fabulous-women-dresses",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 449283828,
+            "catalogId": 136074350
+        },
+        {
+            "id": 119327239,
+            "hero_pid": 406238786,
+            "name": "Classic Partywear Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 281,
+            "min_product_price": 281,
+            "description": "Classic Partywear Women Dresses",
+            "full_details": "Fabric: Cotton / Crepe\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nS, XL, L, M\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classic Partywear Women Dresses*\nFabric: Crepe / Cotton\nSleeve Length: Short Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 30 in, Length Size: 41 in) \nS (Bust Size: 36 in, Length Size: 46 in) \nM (Bust Size: 38 in, Length Size: 46 in) \nL (Bust Size: 36 in, Length Size: 43 in) \nXL (Bust Size: 42 in, Length Size: 46 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 2,
+            "image": "https://images.meesho.com/images/catalogs/119327239/cover/1/2/a708fdcfee39efe28fe9d3de6280d18a220fefb660338a2800835a72aca319c494b1b93df98e55c89fddd9653bec962d3e34a8425286920578e2d9a8523e8ace_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/119327239/collages/1/1/a708fdcfee39efe28fe9d3de6280d18a220fefb660338a2800835a72aca319c494b1b93df98e55c89fddd9653bec962d3e34a8425286920578e2d9a8523e8ace.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-04-19 11:46:17",
+            "created_iso": "2024-04-19T11:46:17+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 5046
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE3Ljk0LCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Miwiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjgxLCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjE3MiwiY29kRGlzY291bnQiOjI2LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjIxOSwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuNDc5Nzk5LCJ0YXhBcmJpdHJhZ2VHc3QiOi0wLjAyNTIsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnt9LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjEuMDk1NjczLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjAsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI2LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjYsInByb2R1Y3RDb2hvcnQiOiIyIiwiY29kU2VydmluZ1ByaWNlIjoyODF9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4yMDY5NTMsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi0yLjY5MDY2MX0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 406238786,
+                    "url": "https://images.meesho.com/images/products/406238786/mabzj_512.jpg"
+                },
+                {
+                    "id": 406238787,
+                    "url": "https://images.meesho.com/images/products/406238787/wambv_512.jpg"
+                }
+            ],
+            "activated": "2024-04-19 18:56:36",
+            "activated_iso": "2024-04-19T18:56:36+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹255 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6pv3uq?utm_source=s",
+            "hero_product_name": "Delta fabric dresses",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "DL",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": false
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/406238786/mabzj_512.jpg"
+            ],
+            "product_id": "6pv3uq",
+            "slug": "delta-fabric-dresses",
+            "original_slug": "delta-fabric-dresses",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 406238786,
+            "catalogId": 119327239
+        },
+        {
+            "id": 123754953,
+            "hero_pid": 418917389,
+            "name": "Trendy Glamorous Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 218,
+            "min_product_price": 218,
+            "description": "Trendy Glamorous Women Dresses",
+            "full_details": "Fabric: Lycra\nSleeve Length: Long Sleeves\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXXS (Bust Size: 30 in, Length Size: 30 in) \nS (Bust Size: 32 in, Length Size: 31 in) \nXL (Bust Size: 38 in, Length Size: 33 in) \nXS (Bust Size: 31 in, Length Size: 30 in) \nL (Bust Size: 36 in, Length Size: 32 in) \nM (Bust Size: 34 in, Length Size: 32 in) \nXXL (Bust Size: 40 in, Length Size: 33 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Glamorous Women Dresses*\nFabric: Lycra\nSleeve Length: Product Dependent\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXXS (Bust Size: 30 in, Length Size: 30 in) \nXS (Bust Size: 31 in, Length Size: 30 in) \nS (Bust Size: 32 in, Length Size: 31 in) \nM (Bust Size: 34 in, Length Size: 32 in) \nL (Bust Size: 36 in, Length Size: 32 in) \nXL (Bust Size: 38 in, Length Size: 33 in) \nXXL (Bust Size: 40 in, Length Size: 33 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 5,
+            "image": "https://images.meesho.com/images/catalogs/123754953/cover/1/2/50378d5999c1bceb1eab856f2134b890f29a0b07bc57ab6302d7538a277afc4fec9a2a4776ae5fef24c545654139515d6b32487c3897f776890e179ca36d7dbb_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/123754953/collages/1/1/50378d5999c1bceb1eab856f2134b890f29a0b07bc57ab6302d7538a277afc4fec9a2a4776ae5fef24c545654139515d6b32487c3897f776890e179ca36d7dbb.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-06-09 17:59:54",
+            "created_iso": "2024-06-09T17:59:54+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.1,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.1",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 4822
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMjk5OTk5LCJjb2RDaGFyZ2UiOjE4LjYxLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YUNvZCI6MCwibG9naXN0aWNzQ2hhcmdlRGVsdGFQcGQiOjAsInJ0b0Rpc2NvdW50IjowLCJzaGlwcGluZ0NoYXJnZSI6MCwiZGVsaXZlcnlGZWVzIjowLCJzaGlwcGluZ0NoYXJnZXNBZGp1c3RtZW50Ijo2Mywiem9uYWxEaXNjb3VudCI6MCwiem9uYWxDaGFyZ2UiOjAsInNlcnZpbmdQcmljZSI6MjE4LCJtYXhEaXNjb3VudFBlcmNlbnRhZ2UiOjAsImF2Z1NzY2F0UnRvQ29kIjowLjg3OTEyNDIsImF2Z1NzY2F0UnRvUHBkIjowLjA5MDU5NjgyNSwicnRvUGVyY2VudGFnZUNvZCI6MC44NzkxMjQyLCJydG9QZXJjZW50YWdlUHBkIjowLjA5MDU5NjgyNSwiaW52ZW50b3J5Q291bnQiOjEyNCwiY29kRGlzY291bnQiOjI2LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjE1NSwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuMzU5NCwidGF4QXJiaXRyYWdlR3N0IjotMC4wMTg4OTksInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaW5zdHJ1bWVudGF0aW9uT2ZmZXJzIjp7fSwicnRvSG9sZG91dFR5cGUiOiJub19ydG9faG9sZG91dCIsInNlcnZpbmdQcmljZVR5cGUiOiJwcmVtaXVtX3JldHVybl9wcmljZSIsImRpZmZlcmVudGlhbFByZXBhaWRBZGp1c3RtZW50IjowLCJkaWZmZXJlbnRpYWxQcmVwYWlkTWFyZ2luIjotNS4yMzk5OTksInByaWNlTWFyZ2luIjowLjc3MDA1MSwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhQ29kIjotODEuMTExODE2LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFQcGQiOi0zNDUuNTcxNTYzLCJmb3J3YXJkUmF0ZUNhcmRDb2QiOjMwLjg0Mzg3LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjMwLjY5OTI3MiwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy45MjIwNjEsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguNDgyNTM0LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My41MDQ2MzEsImNhc2hIYW5kbGluZ1BwZCI6My42MTM0NzEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50Ijo3LCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyNiwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjI2LCJwcm9kdWN0Q29ob3J0IjoiMyIsImNvZFNlcnZpbmdQcmljZSI6MjE4fSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6NTAwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMTQ1NDQ4LCJmaW5hbFByaWNlTWFyZ2luUHBkIjotMS44OTEwMjh9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 418917389,
+                    "url": "https://images.meesho.com/images/products/418917389/c9ebt_512.jpg"
+                },
+                {
+                    "id": 418917388,
+                    "url": "https://images.meesho.com/images/products/418917388/xyldm_512.jpg"
+                },
+                {
+                    "id": 418917390,
+                    "url": "https://images.meesho.com/images/products/418917390/uavt0_512.jpg"
+                },
+                {
+                    "id": 418917391,
+                    "url": "https://images.meesho.com/images/products/418917391/hnis5_512.jpg"
+                },
+                {
+                    "id": 418917392,
+                    "url": "https://images.meesho.com/images/products/418917392/pyugk_512.jpg"
+                }
+            ],
+            "activated": "2024-06-10 08:54:19",
+            "activated_iso": "2024-06-10T08:54:19+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹187 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 26
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 5
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/6xeuq5?utm_source=s",
+            "hero_product_name": "Stylish Party Wear Women Dress Lycra",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "UP",
+            "affiliate_commission_text": "10.00% Commission",
+            "lc_commission_text": "10% Commission",
+            "sale_marker": {
+                "enabled": false
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/418917389/c9ebt_512.jpg"
+            ],
+            "product_id": "6xeuq5",
+            "slug": "stylish-party-wear-women-dress-lycra",
+            "original_slug": "stylish-party-wear-women-dress-lycra",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 418917389,
+            "catalogId": 123754953
+        },
+        {
+            "id": 134080628,
+            "hero_pid": 444924390,
+            "name": "Urbane Designer Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 279,
+            "min_product_price": 279,
+            "max_product_discount": 3,
+            "total_discount_in_rs": 10,
+            "discount_text": "₹10 off",
+            "original_price": 289,
+            "description": "Urbane Designer Women Dresses",
+            "full_details": "Fabric: Cotton\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS, XL, L (Bust Size: 38 in, Length Size: 43 in) \nXXL, M (Bust Size: 36 in, Length Size: 43 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Urbane Designer Women Dresses*\nFabric: Cotton\nSleeve Length: Product Dependent\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 40 in, Length Size: 43 in) \nM (Bust Size: 36 in, Length Size: 43 in) \nL (Bust Size: 38 in, Length Size: 43 in) \nXL (Bust Size: 42 in, Length Size: 27 in) \nXXL (Bust Size: 44 in, Length Size: 43 in) \n\nDispatch: 1 Day\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 4,
+            "image": "https://images.meesho.com/images/catalogs/134080628/cover/1/2/919fee6f78375f0a589311017bd869b78cfaabbda5753c540866bd396a56546491394a4df4f34df8277fc5c51dab55ec13903980b84dd7af3f3f5f29d61fd185_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/134080628/collages/1/1/919fee6f78375f0a589311017bd869b78cfaabbda5753c540866bd396a56546491394a4df4f34df8277fc5c51dab55ec13903980b84dd7af3f3f5f29d61fd185.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-20 16:16:54",
+            "created_iso": "2024-09-20T16:16:54+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 1216
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuMTg5OTk4LCJjb2RDaGFyZ2UiOjE4LjYyOTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6NjMsInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzdHJpa2VPZmZQcmljZSI6Mjg5LCJzZXJ2aW5nUHJpY2UiOjI3OSwibWF4RGlzY291bnRQZXJjZW50YWdlIjozLCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50Ijo5OTAsImNvZERpc2NvdW50IjoyNywiYmZzRGlzY291bnQiOjAsInBmc0Rpc2NvdW50IjowLCJzdXBwbGllclByaWNlIjoyMjQsInRheEFyYml0cmFnZVdpdGhvdXRHc3QiOi0wLjQ5NzksInRheEFyYml0cmFnZUdzdCI6LTAuMDI2MSwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjgsIm9mZmVySWQiOiIxLWN4OUJUVFRkT0s4ODYwdGlmc0xadW85cGE1NmdxajhHV2lHNTRpM0VRTnoiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjEuMzI4ODg5LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjAsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI3LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjcsInByb2R1Y3RDb2hvcnQiOiIzIiwiY29kU2VydmluZ1ByaWNlIjoyNzl9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4yNTEwMDIsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi0zLjI2MzM3NH0",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 444924390,
+                    "url": "https://images.meesho.com/images/products/444924390/vgy8o_512.jpg"
+                },
+                {
+                    "id": 444924389,
+                    "url": "https://images.meesho.com/images/products/444924389/xptgj_512.jpg"
+                },
+                {
+                    "id": 444924388,
+                    "url": "https://images.meesho.com/images/products/444924388/fi4n7_512.jpg"
+                },
+                {
+                    "id": 444924387,
+                    "url": "https://images.meesho.com/images/products/444924387/nuxjz_512.jpg"
+                }
+            ],
+            "activated": "2024-09-22 00:56:58",
+            "activated_iso": "2024-09-22T00:56:58+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹252 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 27
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7cw9uu?utm_source=s",
+            "hero_product_name": "NDC FEB Urban Women Dresses And Frocks",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "RJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/444924390/vgy8o_512.jpg"
+            ],
+            "product_id": "7cw9uu",
+            "slug": "ndc-feb-urban-women-dresses-and-frocks",
+            "original_slug": "ndc-feb-urban-women-dresses-and-frocks",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 444924390,
+            "catalogId": 134080628
+        },
+        {
+            "id": 143512999,
+            "hero_pid": 464584757,
+            "name": "Trendy Sensational Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 353,
+            "min_product_price": 353,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 13,
+            "discount_text": "₹13 off",
+            "original_price": 366,
+            "description": "Trendy Sensational Women Dresses",
+            "full_details": "Fabric: Rayon\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in, Length Size: 32 in) \nXL (Bust Size: 40 in, Length Size: 32 in) \nL (Bust Size: 38 in, Length Size: 32 in) \nXXL (Bust Size: 42 in, Length Size: 32 in) \nM (Bust Size: 36 in, Length Size: 32 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Trendy Sensational Women Dresses*\nFabric: Rayon\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nXS, S (Bust Size: 34 in, Length Size: 32 in) \nM (Bust Size: 36 in, Length Size: 32 in) \nL (Bust Size: 38 in, Length Size: 32 in) \nXL (Bust Size: 40 in, Length Size: 32 in) \nXXL (Bust Size: 42 in, Length Size: 32 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/143512999/cover/1/2/7ede174ee3581b0a526e68e0bc6dca86249aa5b556354fd92510b7929b6c7d02e97669a7a3a23df9bb6d5b2fc3bbd6b275eaa47e3a92772fff088ae7123ff34c_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/143512999/collages/1/1/7ede174ee3581b0a526e68e0bc6dca86249aa5b556354fd92510b7929b6c7d02e97669a7a3a23df9bb6d5b2fc3bbd6b275eaa47e3a92772fff088ae7123ff34c.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-12-06 11:16:44",
+            "created_iso": "2024-12-06T11:16:44+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 3203
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDguMzE5OTk5LCJjb2RDaGFyZ2UiOjE4Ljg5OTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6NjUsInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzdHJpa2VPZmZQcmljZSI6MzY2LCJzZXJ2aW5nUHJpY2UiOjM1MywibWF4RGlzY291bnRQZXJjZW50YWdlIjo0LCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50Ijo4NDk2LCJjb2REaXNjb3VudCI6MjgsImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6Mjk5LCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC41NzUzOTksInRheEFyYml0cmFnZUdzdCI6LTAuMDMwMiwidmFsbW9EaXNjb3VudCI6LTEuNDA5OTk5LCJpc0JycEJsb2NrZWQiOnRydWUsImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjExLCJvZmZlcklkIjoiMS1jeDlnNXcyTXZJV0pxN2ZDenphMzRsU0pJNDZKb3ZJNnRtMzNMczU2U1F4Iiwib2ZmZXJOYW1lIjoiTWFoYSBJbmRpYW4gU2F2aW5ncyBTYWxlIn1dfSwicnRvSG9sZG91dFR5cGUiOiJub19ydG9faG9sZG91dCIsInNlcnZpbmdQcmljZVR5cGUiOiJwcmVtaXVtX3JldHVybl9wcmljZSIsImRpZmZlcmVudGlhbFByZXBhaWRBZGp1c3RtZW50IjowLCJkaWZmZXJlbnRpYWxQcmVwYWlkTWFyZ2luIjotNS4yMzk5OTksInByaWNlTWFyZ2luIjoxLjU3MDkwNSwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhQ29kIjotODEuMTExODE2LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFQcGQiOi0zNDUuNTcxNTYzLCJmb3J3YXJkUmF0ZUNhcmRDb2QiOjMwLjg0Mzg3LCJmb3J3YXJkUmF0ZUNhcmRQcGQiOjMwLjY5OTI3MiwicmV2ZXJzZVJhdGVDYXJkQ29kIjoxNy45MjIwNjEsInJldmVyc2VSYXRlQ2FyZFBwZCI6MTguNDgyNTM0LCJ6b25lIjoiRCIsImlzTWFsbFZlcmlmaWVkIjpmYWxzZSwiaXNXYWFzU3VwcGxpZXIiOmZhbHNlLCJyZXR1cm5GYWN0b3JDb2QiOjAuNDI0NTYsInJldHVybkZhY3RvclBwZCI6MC40OTI5NTgsImNhc2hIYW5kbGluZ0NvZCI6My41MDQ2MzEsImNhc2hIYW5kbGluZ1BwZCI6My42MTM0NzEsInN1cHBsaWVyUHJlcGFpZERpc2NvdW50IjowLCJkaWZmRGlzY291bnRpbmdEc0luc3RydW1lbnRhdGlvbkRhdGEiOnsicHJlcGFpZERpc2NvdW50QmVmb3JlIjoyOCwicHJlcGFpZERpc2NvdW50QWZ0ZXIiOjI4LCJwcm9kdWN0Q29ob3J0IjoiMiIsImNvZFNlcnZpbmdQcmljZSI6MzUzfSwicHJpbWFyeVByaWNlVHlwZSI6IiIsInNlY29uZGFyeVByaWNlVHlwZSI6IiIsInNzY2F0IjoiMTAwMDgiLCJucnRWcnNDb25maWciOiJjb25maWdfZCIsIndlaWdodCI6NTAwLCJ3ZWlnaHRTb3VyY2UiOiJESC1zb3J0ZXIgTS0wLTYgbW9udGhzIiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhIjowLCJwbGF0Zm9ybVByaWNlTWFyZ2luVHlwZSI6IlBFUkNFTlRBR0UiLCJhYkNhbGwiOiJzdWNjZXNzIiwicHJpY2VQYXRoIjoiR2VuZXJhbDpMb2dpc3RpY3NWMiIsImZpbmFsUHJpY2VNYXJnaW5Db2QiOjAuMjk2NzE0LCJmaW5hbFByaWNlTWFyZ2luUHBkIjotMy44NTc2OTd9",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 464584757,
+                    "url": "https://images.meesho.com/images/products/464584757/cqx6f_512.jpg"
+                }
+            ],
+            "activated": "2024-12-07 02:13:07",
+            "activated_iso": "2024-12-07T02:13:07+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹325 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 28
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7olnw5?utm_source=s",
+            "hero_product_name": "Dresses for girls-, Sleeveless, Scoop Neck, Swing Dress, Polka Dot Floral Print, White",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "RJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/464584757/cqx6f_512.jpg"
+            ],
+            "product_id": "7olnw5",
+            "slug": "dresses-for-girls-sleeveless-scoop-neck-swing-dress-polka-dot-floral-print-white",
+            "original_slug": "dresses-for-girls-sleeveless-scoop-neck-swing-dress-polka-dot-floral-print-white",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 464584757,
+            "catalogId": 143512999
+        },
+        {
+            "id": 137813249,
+            "hero_pid": 452927242,
+            "name": "Classy Ravishing Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 464,
+            "min_product_price": 464,
+            "max_product_discount": 7,
+            "total_discount_in_rs": 34,
+            "discount_text": "₹34 off",
+            "original_price": 498,
+            "description": "Classy Ravishing Women Dresses",
+            "full_details": "Fabric: Georgette\nSleeve Length: Short Sleeves\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 48 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 48 in) \nXXXL (Bust Size: 46 in, Length Size: 48 in) \nXXL (Bust Size: 44 in, Length Size: 48 in) \nM (Bust Size: 38 in, Length Size: 48 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classy Ravishing Women Dresses*\nFabric: Georgette\nSleeve Length: Product Dependent\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 36 in, Length Size: 48 in) \nM (Bust Size: 38 in, Length Size: 48 in) \nL (Bust Size: 40 in, Length Size: 48 in) \nXL (Bust Size: 42 in, Length Size: 48 in) \nXXL (Bust Size: 44 in, Length Size: 48 in) \nXXXL (Bust Size: 46 in, Length Size: 48 in) \n4XL (Bust Size: 48 in, Length Size: 48 in) \n5XL (Bust Size: 50 in, Length Size: 48 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 3,
+            "image": "https://images.meesho.com/images/catalogs/137813249/cover/1/2/a44160e5120c5b60a34efd89ded6b8c2128a8da39d20e97345cca41b946c0901ff11edd3830905018aed82b60a1efcd6b9603ef6bad2847267b635fe7a35a0e6_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/137813249/collages/1/1/a44160e5120c5b60a34efd89ded6b8c2128a8da39d20e97345cca41b946c0901ff11edd3830905018aed82b60a1efcd6b9603ef6bad2847267b635fe7a35a0e6.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-10-16 19:10:28",
+            "created_iso": "2024-10-16T19:10:28+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": true,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 2816
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDkuNDUsImNvZENoYXJnZSI6MTcuMzQsImxvZ2lzdGljc0NoYXJnZURlbHRhQ29kIjowLCJsb2dpc3RpY3NDaGFyZ2VEZWx0YVBwZCI6MCwicnRvRGlzY291bnQiOjAsInNoaXBwaW5nQ2hhcmdlIjowLCJkZWxpdmVyeUZlZXMiOjAsInNoaXBwaW5nQ2hhcmdlc0FkanVzdG1lbnQiOjY1LCJ6b25hbERpc2NvdW50IjowLCJ6b25hbENoYXJnZSI6MCwic3RyaWtlT2ZmUHJpY2UiOjQ5OCwic2VydmluZ1ByaWNlIjo0NjQsIm1heERpc2NvdW50UGVyY2VudGFnZSI6NywiYXZnU3NjYXRSdG9Db2QiOjAuODc5MTI0MiwiYXZnU3NjYXRSdG9QcGQiOjAuMDkwNTk2ODI1LCJydG9QZXJjZW50YWdlQ29kIjowLjg3OTEyNDIsInJ0b1BlcmNlbnRhZ2VQcGQiOjAuMDkwNTk2ODI1LCJpbnZlbnRvcnlDb3VudCI6MTM5MCwiY29kRGlzY291bnQiOjI4LCJiZnNEaXNjb3VudCI6MCwicGZzRGlzY291bnQiOjAsInN1cHBsaWVyUHJpY2UiOjQyOSwidGF4QXJiaXRyYWdlV2l0aG91dEdzdCI6LTAuODU3NCwidGF4QXJiaXRyYWdlR3N0IjotMC4wNDUsInZhbG1vRGlzY291bnQiOi0xLjQwOTk5OSwiaXNCcnBCbG9ja2VkIjp0cnVlLCJpbnN0cnVtZW50YXRpb25PZmZlcnMiOnsic3VwcGxpZXJPZmZlcnMiOlt7ImRpc2NvdW50IjozMCwib2ZmZXJJZCI6IjEtY3g3SHBoZktLeU1iNXU4bkVHcGgwMENnY2syTzBOOEZrMzlaaDFIeHNxdCIsIm9mZmVyTmFtZSI6Ik1haGEgSW5kaWFuIFNhdmluZ3MgU2FsZSJ9XX0sInJ0b0hvbGRvdXRUeXBlIjoibm9fcnRvX2hvbGRvdXQiLCJzZXJ2aW5nUHJpY2VUeXBlIjoicHJlbWl1bV9yZXR1cm5fcHJpY2UiLCJkaWZmZXJlbnRpYWxQcmVwYWlkQWRqdXN0bWVudCI6MCwiZGlmZmVyZW50aWFsUHJlcGFpZE1hcmdpbiI6LTUuMjM5OTk5LCJwcmljZU1hcmdpbiI6Mi4xOTU3NDcsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YUNvZCI6LTgxLjExMTgxNiwicGxhdGZvcm1QcmljZU1hcmdpbkRlbHRhUHBkIjotMzQ1LjU3MTU2MywiZm9yd2FyZFJhdGVDYXJkQ29kIjozMC44NDM4NywiZm9yd2FyZFJhdGVDYXJkUHBkIjozMC42OTkyNzIsInJldmVyc2VSYXRlQ2FyZENvZCI6MTcuOTIyMDYxLCJyZXZlcnNlUmF0ZUNhcmRQcGQiOjE4LjQ4MjUzNCwiem9uZSI6IkQiLCJpc01hbGxWZXJpZmllZCI6ZmFsc2UsImlzV2Fhc1N1cHBsaWVyIjpmYWxzZSwicmV0dXJuRmFjdG9yQ29kIjowLjQyNDU2LCJyZXR1cm5GYWN0b3JQcGQiOjAuNDkyOTU4LCJjYXNoSGFuZGxpbmdDb2QiOjMuNTA0NjMxLCJjYXNoSGFuZGxpbmdQcGQiOjMuNjEzNDcxLCJzdXBwbGllclByZXBhaWREaXNjb3VudCI6MTEsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI4LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjgsInByb2R1Y3RDb2hvcnQiOiIyIiwiY29kU2VydmluZ1ByaWNlIjo0NjR9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC40MTQ3MzYsImZpbmFsUHJpY2VNYXJnaW5QcGQiOi01LjM5MjEzfQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 452927242,
+                    "url": "https://images.meesho.com/images/products/452927242/fd3di_512.jpg"
+                },
+                {
+                    "id": 452927243,
+                    "url": "https://images.meesho.com/images/products/452927243/3npcp_512.jpg"
+                },
+                {
+                    "id": 452927241,
+                    "url": "https://images.meesho.com/images/products/452927241/xverz_512.jpg"
+                }
+            ],
+            "activated": "2024-10-25 09:02:13",
+            "activated_iso": "2024-10-25T09:02:13+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹436 with 1 Special Offer",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 28
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7hnswa?utm_source=s",
+            "hero_product_name": "Woman Maxi Dress",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/452927242/fd3di_512.jpg"
+            ],
+            "product_id": "7hnswa",
+            "slug": "woman-maxi-dress",
+            "original_slug": "woman-maxi-dress",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 452927242,
+            "catalogId": 137813249
+        },
+        {
+            "id": 132227419,
+            "hero_pid": 440849613,
+            "name": "Classy Fashionable Women Dresses",
+            "category_id": 1025,
+            "sub_sub_category_name": "Dresses",
+            "min_catalog_price": 303,
+            "min_product_price": 303,
+            "max_product_discount": 4,
+            "total_discount_in_rs": 11,
+            "discount_text": "₹11 off",
+            "original_price": 314,
+            "description": "Classy Fashionable Women Dresses",
+            "full_details": "Fabric: Lycra\nSleeve Length: Sleeveless\nPattern: Printed\nNet Quantity (N): 1\nSizes:\nS (Bust Size: 34 in, Length Size: 50 in) \nXL (Bust Size: 40 in, Length Size: 50 in) \nXS (Bust Size: 32 in, Length Size: 50 in) \nL (Bust Size: 38 in, Length Size: 50 in) \nM (Bust Size: 36 in, Length Size: 50 in) \nXXL (Bust Size: 42 in, Length Size: 50 in) \n\nDispatch: 2-2 Days",
+            "share_text": "Catalog Name:*Classy Fashionable Women Dresses*\nFabric: Lycra\nSleeve Length: Sleeveless\nPattern: Solid\nNet Quantity (N): 1\nSizes:\nXS (Bust Size: 34 in, Length Size: 46 in) \nS (Bust Size: 36 in, Length Size: 46 in) \nM (Bust Size: 38 in, Length Size: 46 in) \nL (Bust Size: 40 in, Length Size: 46 in) \nXL (Bust Size: 42 in, Length Size: 46 in) \nXXL (Bust Size: 44 in, Length Size: 46 in) \n\nDispatch: 2 Days\n\n*Proof of Safe Delivery! Click to know on Safety Standards of Delivery Partners- https://ltl.sh/y_nZrAV3",
+            "hot": false,
+            "type": "catalog",
+            "pre_booking": false,
+            "priority": 0,
+            "num_suppliers": 0,
+            "num_designs": 1,
+            "image": "https://images.meesho.com/images/catalogs/132227419/cover/1/2/2f786a13af2419992fd3bb95404108e3b4e94bd4213196cba165324c63ac45421cf4ac14ccecc092e9d1e87e03bc30777d4f4f6bbede694232d0121227d341d7_512.jpg",
+            "collage_image": "https://images.meesho.com/images/catalogs/132227419/collages/1/1/2f786a13af2419992fd3bb95404108e3b4e94bd4213196cba165324c63ac45421cf4ac14ccecc092e9d1e87e03bc30777d4f4f6bbede694232d0121227d341d7.jpg",
+            "image_aspect_ratio": 1.77,
+            "collage_image_aspect_ratio": 1.48,
+            "created": "2024-09-07 12:14:38",
+            "created_iso": "2024-09-07T12:14:38+0530",
+            "valid": true,
+            "trend": "",
+            "popular": false,
+            "has_mrp": true,
+            "is_added_to_wishlist": false,
+            "assured_details": {
+                "is_assured": false,
+                "message": "Best quality products from trusted suppliers."
+            },
+            "mall_verified": false,
+            "story_images": [],
+            "catalog_reviews_summary": {
+                "average_rating": 4.3,
+                "absolute_average_rating": 0,
+                "average_rating_str": "4.3",
+                "rating_scale": 5,
+                "review_count": 0,
+                "rating_count": 6525
+            },
+            "shipping": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "shipping_2": {
+                "charges": 0,
+                "discount": 0,
+                "show_shipping_charges": false,
+                "show_free_delivery": false,
+                "is_express_delivery": false
+            },
+            "tags": [
+                {
+                    "name": "NEXT DAY DISPATCH"
+                }
+            ],
+            "app_event_data": {
+                "price_metadata": "eyJydG9DaGFyZ2UiOjAsImxvZ2lzdGljc0NoYXJnZSI6NDYuNDM5OTk4LCJjb2RDaGFyZ2UiOjIwLjcwOTk5OSwibG9naXN0aWNzQ2hhcmdlRGVsdGFDb2QiOjAsImxvZ2lzdGljc0NoYXJnZURlbHRhUHBkIjowLCJydG9EaXNjb3VudCI6MCwic2hpcHBpbmdDaGFyZ2UiOjAsImRlbGl2ZXJ5RmVlcyI6MCwic2hpcHBpbmdDaGFyZ2VzQWRqdXN0bWVudCI6NjUsInpvbmFsRGlzY291bnQiOjAsInpvbmFsQ2hhcmdlIjowLCJzdHJpa2VPZmZQcmljZSI6MzE0LCJzZXJ2aW5nUHJpY2UiOjMwMywibWF4RGlzY291bnRQZXJjZW50YWdlIjo0LCJhdmdTc2NhdFJ0b0NvZCI6MC44NzkxMjQyLCJhdmdTc2NhdFJ0b1BwZCI6MC4wOTA1OTY4MjUsInJ0b1BlcmNlbnRhZ2VDb2QiOjAuODc5MTI0MiwicnRvUGVyY2VudGFnZVBwZCI6MC4wOTA1OTY4MjUsImludmVudG9yeUNvdW50IjozNDQzLCJjb2REaXNjb3VudCI6MjksImJmc0Rpc2NvdW50IjowLCJwZnNEaXNjb3VudCI6MCwic3VwcGxpZXJQcmljZSI6MjQ3LCJ0YXhBcmJpdHJhZ2VXaXRob3V0R3N0IjotMC42MzYzOTksInRheEFyYml0cmFnZUdzdCI6LTAuMDMzMzk5LCJ2YWxtb0Rpc2NvdW50IjotMS40MDk5OTksImluc3RydW1lbnRhdGlvbk9mZmVycyI6eyJzdXBwbGllck9mZmVycyI6W3siZGlzY291bnQiOjksIm9mZmVySWQiOiIxLWN4N01VdTZNUkRSbHduUWVvRDQzdnhRYUtzdnM4RGxnb0gzU3FuYVdFQ3QiLCJvZmZlck5hbWUiOiJNYWhhIEluZGlhbiBTYXZpbmdzIFNhbGUifV19LCJydG9Ib2xkb3V0VHlwZSI6Im5vX3J0b19ob2xkb3V0Iiwic2VydmluZ1ByaWNlVHlwZSI6InByZW1pdW1fcmV0dXJuX3ByaWNlIiwiZGlmZmVyZW50aWFsUHJlcGFpZEFkanVzdG1lbnQiOjAsImRpZmZlcmVudGlhbFByZXBhaWRNYXJnaW4iOi01LjIzOTk5OSwicHJpY2VNYXJnaW4iOjEuMzE1Njg4LCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGFDb2QiOi04MS4xMTE4MTYsInBsYXRmb3JtUHJpY2VNYXJnaW5EZWx0YVBwZCI6LTM0NS41NzE1NjMsImZvcndhcmRSYXRlQ2FyZENvZCI6MzAuODQzODcsImZvcndhcmRSYXRlQ2FyZFBwZCI6MzAuNjk5MjcyLCJyZXZlcnNlUmF0ZUNhcmRDb2QiOjE3LjkyMjA2MSwicmV2ZXJzZVJhdGVDYXJkUHBkIjoxOC40ODI1MzQsInpvbmUiOiJEIiwiaXNNYWxsVmVyaWZpZWQiOmZhbHNlLCJpc1dhYXNTdXBwbGllciI6ZmFsc2UsInJldHVybkZhY3RvckNvZCI6MC40MjQ1NiwicmV0dXJuRmFjdG9yUHBkIjowLjQ5Mjk1OCwiY2FzaEhhbmRsaW5nQ29kIjozLjUwNDYzMSwiY2FzaEhhbmRsaW5nUHBkIjozLjYxMzQ3MSwic3VwcGxpZXJQcmVwYWlkRGlzY291bnQiOjAsImRpZmZEaXNjb3VudGluZ0RzSW5zdHJ1bWVudGF0aW9uRGF0YSI6eyJwcmVwYWlkRGlzY291bnRCZWZvcmUiOjI5LCJwcmVwYWlkRGlzY291bnRBZnRlciI6MjksInByb2R1Y3RDb2hvcnQiOiIzIiwiY29kU2VydmluZ1ByaWNlIjozMDN9LCJwcmltYXJ5UHJpY2VUeXBlIjoiIiwic2Vjb25kYXJ5UHJpY2VUeXBlIjoiIiwic3NjYXQiOiIxMDAwOCIsIm5ydFZyc0NvbmZpZyI6ImNvbmZpZ19kIiwid2VpZ2h0Ijo1MDAsIndlaWdodFNvdXJjZSI6IkRILXNvcnRlciBNLTAtNiBtb250aHMiLCJwbGF0Zm9ybVByaWNlTWFyZ2luRGVsdGEiOjAsInBsYXRmb3JtUHJpY2VNYXJnaW5UeXBlIjoiUEVSQ0VOVEFHRSIsImFiQ2FsbCI6InN1Y2Nlc3MiLCJwcmljZVBhdGgiOiJHZW5lcmFsOkxvZ2lzdGljc1YyIiwiZmluYWxQcmljZU1hcmdpbkNvZCI6MC4yNDg1MSwiZmluYWxQcmljZU1hcmdpblBwZCI6LTMuMjMwOTU2fQ",
+                "candidate_metadata": {
+                    "source": "organic"
+                }
+            },
+            "gray_tags": [],
+            "value_prop_tag": {
+                "name": "NEXT DAY DISPATCH"
+            },
+            "has_same_price_products": true,
+            "product_images": [
+                {
+                    "id": 440849613,
+                    "url": "https://images.meesho.com/images/products/440849613/vtfxl_512.jpg"
+                }
+            ],
+            "activated": "2024-09-08 00:16:24",
+            "activated_iso": "2024-09-08T00:16:24+0530",
+            "num_shares": "0 Shares",
+            "margin": {
+                "enabled": false
+            },
+            "price_type_id": "premium_return_price",
+            "special_offers": {
+                "display_text": "₹269 with 2 Special Offers",
+                "offers": [
+                    {
+                        "type": "cod_unbundling",
+                        "amount": 29
+                    },
+                    {
+                        "type": "return_options",
+                        "amount": 5
+                    }
+                ]
+            },
+            "consumer_share_text": "Hey, check out this product on Meesho! \r\n\r\nGet upto 25% OFF on your first order. Also grab extra 25% on new products every 3 hours!\r\n\nhttps://www.meesho.com/s/p/7agxql?utm_source=s",
+            "hero_product_name": "Pretty Designer Women Dresses",
+            "high_asp_enabled": false,
+            "gst_type": "GSTIN",
+            "state_code": "GJ",
+            "affiliate_commission_text": "",
+            "lc_commission_text": "",
+            "sale_marker": {
+                "enabled": true
+            },
+            "combo_offer": {
+                "enabled": false,
+                "pre_buzz": {
+                    "enabled": false
+                }
+            },
+            "lowest_price_marker": {
+                "enabled": false
+            },
+            "flash_marker": {
+                "enabled": false
+            },
+            "fgo_marker": {
+                "enabled": false
+            },
+            "images": [
+                "https://images.meesho.com/images/products/440849613/vtfxl_512.jpg"
+            ],
+            "product_id": "7agxql",
+            "slug": "pretty-designer-women-dresses",
+            "original_slug": "pretty-designer-women-dresses",
+            "isAdProduct": false,
+            "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+            "product_attributes": [],
+            "original_product_id": 440849613,
+            "catalogId": 132227419
+        }
+    ],
+    "widget_groups": [],
+    "header_widget_groups": [],
+    "user_data": {},
+    "subscribed": false,
+    "cursor": "eyJxd2VzdF9vZmZzZXQiOjAsInF3ZXN0X2N1cnNvciI6IiIsIm9mc19jdXJzb3IiOiJ7XCJvZmZzZXRcIjo0MCxcInZlcnNpb25cIjoxNzc1MjY4NzI5LFwiY2FjaGVPZmZzZXRcIjo0MH0iLCJ2ZXJzaW9uIjowLCJlc19jdXJzb3IiOiIiLCJmZWVkX29mZnNldCI6MCwib2Zmc2V0IjowLCJoYXNfbmV4dF9jbHBfaW9wX2RzX2NhdGFsb2ciOmZhbHNlLCJjbHBfaW9wX2RzX2N1cnNvciI6IiIsImRkX3Nlc3Npb25faWQiOiJjdHhfMV91aWRfLTFfY2xwaWRfMjY5Njg4X3RfMTc3NTI2OTIzMjY5NiIsImFkX2N1cnNvciI6IiIsImxhc3RfYWRfc2xvdCI6LTEsImhhc19uZXh0X2FkX3Nsb3QiOnRydWUsImhhc19uZXh0X2FkX2NhdGFsb2ciOnRydWUsImNhdGFsb2dfcmFua2luZ19leHAiOiJOT05FIiwic2xvdF9jb25maWdfdmFyaWFudF9pZCI6IiIsImlzX3Nsb3RfY29uZmlnX2VuYWJsZWQiOmZhbHNlLCJ1c2VyX2NvaG9ydCI6IiIsImN0X2N1cnNvciI6IiIsImN0X2hhc19uZXh0X2NhdGFsb2ciOmZhbHNlLCJpc19pb3BfZW5hYmxlZF9mb3JfYWRzIjp0cnVlLCJzZl9yb3V0ZV90eXBlIjoiZmEifQ==",
+    "id": 269688,
+    "session_id": "ctx_1_uid_-1_clpid_269688_t_1775269232696",
+    "disable_filters": false,
+    "view_template_id": 1,
+    "mall_tag_disabled": false,
+    "enhanced_plp_enabled": false
+}
